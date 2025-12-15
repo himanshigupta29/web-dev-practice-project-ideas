@@ -15,7 +15,7 @@ Below are simple web development projects for beginners to gradually understand 
 
 # Project 2 (HTML)
 1 Create a register page of the library portal, which takes first name, last name, and college, course, two options B-Tech or MBA, and Semester, and a register button
-2 clicking on the register button will land the user on the success page saying successfully logged in 
+2 clicking on the register button will land the user on the success page saying successfully Registered. 
 
 ----------
 
